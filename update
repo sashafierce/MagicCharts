@@ -1,0 +1,21 @@
+#!/bin/bash
+echo -e "Updating local repository for $1 ..." 
+echo
+#argument to check if connection via proxy server
+if [ "$#" -eq  "1" ]
+   then
+   echo "Clearing https proxy if set"
+  unset https_proxy 
+fi
+cd $1
+git remote -v
+echo
+read -n 1 -s -p "Press any key to continue , else press <CTRL + C> to kill and configure remotes"
+echo
+git fetch upstream
+git checkout master
+git rebase upstream/master
+echo -e "Updating forked repository..." 
+git push -f origin master
+cd ..
+echo -e "Success"
