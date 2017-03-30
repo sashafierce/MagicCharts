@@ -1,0 +1,19 @@
+
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+r
+Bapp/src/main/java/akankshabhardwaj/me/magiccharts/Data/Artist.java,d/9/d9f6fff9119d13ee8af03577bd68ae8b13bb5fff
+q
+Aapp/src/main/java/akankshabhardwaj/me/magiccharts/Data/Track.java,3/9/390676a4772c5632fce798ed798a1c5adf1bb02f
+p
+@app/src/main/java/akankshabhardwaj/me/magiccharts/Data/Attr.java,e/c/ecabf651b011e6dec61e70eec9f1c038334a9b5d
+r
+Bapp/src/main/java/akankshabhardwaj/me/magiccharts/Data/Tracks.java,c/8/c8a9764b61773708f937ad34a7dd25ec91f11592
+p
+@app/src/main/java/akankshabhardwaj/me/magiccharts/LastfmAPI.java,6/c/6cebbb55cae9fb51e057d3e56f30894535abad17
+s
+Capp/src/main/java/akankshabhardwaj/me/magiccharts/TrackAdapter.java,b/d/bd4ac2de7f1161d4ae369cd0ddae328350d7c6b2
+s
+Capp/src/main/java/akankshabhardwaj/me/magiccharts/MainActivity.java,0/3/03c845a8e425c36bddffc1690792402eb2f71833
